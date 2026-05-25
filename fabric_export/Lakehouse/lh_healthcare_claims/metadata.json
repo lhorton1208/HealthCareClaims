@@ -1,0 +1,8 @@
+{
+    "id": "1887c299-bd1b-4de4-a870-c18071243578",
+    "type": "Lakehouse",
+    "displayName": "lh_healthcare_claims",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87",
+    "attributes": []
+}
