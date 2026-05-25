@@ -1,0 +1,8 @@
+{
+    "id": "3934be35-f014-4bf7-952d-dc166e391092",
+    "type": "DataPipeline",
+    "displayName": "healthcareClaims_Dataa_Pipeline",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87",
+    "attributes": []
+}
