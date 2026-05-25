@@ -1,0 +1,8 @@
+{
+    "id": "4d758c0d-297e-454e-9eab-6432c67cc92f",
+    "type": "CopyJob",
+    "displayName": "Synthea_Synthetic_HC_Data",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87",
+    "attributes": []
+}
