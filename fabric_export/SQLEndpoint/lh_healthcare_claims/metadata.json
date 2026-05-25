@@ -1,0 +1,8 @@
+{
+    "id": "ccaf5b42-e0ec-46c1-925b-389aaec5191e",
+    "type": "SQLEndpoint",
+    "displayName": "lh_healthcare_claims",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87",
+    "attributes": []
+}
