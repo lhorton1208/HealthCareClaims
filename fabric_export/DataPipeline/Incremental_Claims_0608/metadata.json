@@ -1,0 +1,7 @@
+{
+    "id": "58221d54-5693-4f64-b5e2-30a90a09084d",
+    "type": "DataPipeline",
+    "displayName": "Incremental_Claims_0608",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87"
+}
