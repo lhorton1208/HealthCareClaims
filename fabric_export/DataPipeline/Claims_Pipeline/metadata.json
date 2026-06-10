@@ -1,0 +1,7 @@
+{
+    "id": "1cd02712-d782-4680-afca-64369abdb422",
+    "type": "DataPipeline",
+    "displayName": "Claims_Pipeline",
+    "description": "",
+    "workspaceId": "18181bb0-d5e7-4cf9-b70e-a92ee24bda87"
+}
